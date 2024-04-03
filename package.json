@@ -1,0 +1,17 @@
+{
+  "name": "demogit",
+  "version": "1.0.0",
+  "description": "- git init\r - git add .\r - git commit -m \"message\"",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-confetti": "^1.9.2"
+  }
+}

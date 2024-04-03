@@ -1,0 +1,12 @@
+{
+    "name": "cyril/demo-git",
+    "authors": [
+        {
+            "name": "Vivier Cyril",
+            "email": "cyril.vivier2@afpa.fr"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^7.0"
+    }
+}
